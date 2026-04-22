@@ -47,13 +47,3 @@ Personal brand site with technical blogs, portfolio, and digital products. Integ
 **Stack:** Next.js · Netlify
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsantufail&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantufail&layout=compact&theme=default&hide_border=true)
-
-</div>
